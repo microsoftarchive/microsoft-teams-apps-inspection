@@ -8,16 +8,6 @@ description: Enables front line workers to inspect an asset or area to manage qu
 urlFragment: microsoft-teams-app-inspection
 ---
 
----
-page_type: sample
-languages:
-- PowerApps
-products:
-- office-teams
-description: Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
-urlFragment: microsoft-teams-app-inspection
----
-
 # Inspection App Template
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
