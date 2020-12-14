@@ -1,3 +1,12 @@
+---
+page_type: sample
+languages:
+- csharp
+products:
+- office-teams
+description: Employee Training app promotes users to participate in various learning events, get new content, and build a healthy competitive environment to learn new topics from peers in the team.
+urlFragment: microsoft-teams-apps-employeetraining
+---
 
 ---
 page_type: sample
