@@ -4,7 +4,7 @@ languages:
 - PowerApps
 products:
 - office-teams
-description: Employee Training app promotes users to participate in various learning events, get new content, and build a healthy competitive environment to learn new topics from peers in the team.
+description: Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
 urlFragment: microsoft-teams-apps-employeetraining
 ---
 
@@ -13,7 +13,7 @@ page_type: sample
 languages:
 - PowerApps
 products:
-- office-teama
+- office-teams
 description: Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
 urlFragment: microsoft-teams-app-inspection
 ---
