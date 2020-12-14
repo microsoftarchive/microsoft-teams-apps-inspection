@@ -13,9 +13,9 @@ page_type: sample
 languages:
 - PowerApps
 products:
-- office-teams
-description: "Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace​ "
-urlFragment: "microsoft-teams-app-inspection"
+- office-teama
+description: Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
+urlFragment: microsoft-teams-app-inspection
 ---
 
 # Inspection App Template
