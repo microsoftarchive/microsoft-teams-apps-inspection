@@ -1,13 +1,29 @@
 # Inspection App Template
+---
+page_type: sample
+languages:
+- PowerApps
+products:
+- office-teams
+description: "Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace​ "
+urlFragment: "microsoft-teams-app-inspection"
+---
+
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
 | ---- | ---- | ---- |
 
-Company Communicator is a custom Teams app that enables corporate teams to create and send messages intended for multiple teams or large number of employees over chat allowing organization to reach employees right where they collaborate. Use this template for multiple scenarios, such as new initiative announcements, employee onboarding, modern learning and development, or organization-wide broadcasts. 
+### Key features
+* **Inspection:** Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
+* **Communication:** Facilitates communication between team members to address issues found during inspection
+* **Reporting:** Provides simple reports for managers to expedite issue resolution and highlight trends
 
-The app provides an easy interface for designated users to create, preview, collaborate and send messages. It's also a foundation for building custom targeted communication capabilities, such as custom telemetry on how many users acknowledged or interacted with a message.
+## Get started
+This app can be accessed in the Teams Store under "Inspection". The purpose of this GitHub repo is to make the code available to those who want to modify the code and extend the app (e.g., connect the database to your own internal databse).
 
+Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) to read about what the app does and how it works.
 
+When you're ready to try out Company Communicator, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide).
 
 ## Contributing
 
