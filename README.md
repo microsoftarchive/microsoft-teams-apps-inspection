@@ -1,14 +1,13 @@
-# Project
+# Inspection App Template
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
+| ---- | ---- | ---- |
 
-As the maintainer of this project, please make a few updates:
+Company Communicator is a custom Teams app that enables corporate teams to create and send messages intended for multiple teams or large number of employees over chat allowing organization to reach employees right where they collaborate. Use this template for multiple scenarios, such as new initiative announcements, employee onboarding, modern learning and development, or organization-wide broadcasts. 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The app provides an easy interface for designated users to create, preview, collaborate and send messages. It's also a foundation for building custom targeted communication capabilities, such as custom telemetry on how many users acknowledged or interacted with a message.
+
+
 
 ## Contributing
 
