@@ -1,4 +1,4 @@
-# Inspection App Template
+
 ---
 page_type: sample
 languages:
@@ -9,6 +9,7 @@ description: "Enables front line workers to inspect an asset or area to manage q
 urlFragment: "microsoft-teams-app-inspection"
 ---
 
+# Inspection App Template
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
 | ---- | ---- | ---- |
