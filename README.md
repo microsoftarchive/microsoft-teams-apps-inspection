@@ -13,6 +13,8 @@ urlFragment: microsoft-teams-app-inspection
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
 | ---- | ---- | ---- |
 
+The Inspection solution for Microsoft Teams is a general inspection app that can be used to inspect anything from a location—such as a retail store or manufacturing plant—to assets and equipment, such as vehicles and machines. There are two apps in this solution, each intended for different kinds of users.
+
 ### Key features
 * **Inspection:** Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
 * **Communication:** Facilitates communication between team members to address issues found during inspection
