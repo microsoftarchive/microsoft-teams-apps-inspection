@@ -8,7 +8,9 @@ description: Enables front line workers to inspect an asset or area to manage qu
 urlFragment: microsoft-teams-app-inspection
 ---
 
-# Inspection App Template
+# This repository has been archived. The code, app package, and Dataverse solution for this app can be found in the [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) open source repository.
+
+## Inspection App Template
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
 | ---- | ---- | ---- |
